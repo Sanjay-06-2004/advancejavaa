@@ -28,6 +28,9 @@ https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/st
 https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/ReverseString.png<br>
 https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/StringHandlingDemo1.png<br>
 https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/StringHandlingDemo2.png<br>
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/countwords.jpg<br>
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/numeric.jpg<br>
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/truncat.jpg<br>
 
 Output for 4, Swings:
 
