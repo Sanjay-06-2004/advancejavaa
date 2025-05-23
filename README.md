@@ -4,13 +4,13 @@ https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList
 https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/DeleteNthElementArrayList.png<br>
 https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/DisplayWithPositionsLinkedList.png<br>
 https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/InsertEndLinkedList%20(2).png<br>
-https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/IterateFromSecondLinkedList.png
-https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/RemoveColorArrayList.java.png
-https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/ReverseIterateLinkedList.png
-https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/SortColorsArrayList.png
-https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/SubListColorsArrayList.png
-https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/SwapElementsLinkedList.png
-https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/WorkedOutEx.png
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/IterateFromSecondLinkedList.png<br>
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/RemoveColorArrayList.java.png<br>
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/ReverseIterateLinkedList.png<br>
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/SortColorsArrayList.png<br>
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/SubListColorsArrayList.png<br>
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/SwapElementsLinkedList.png<br>
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Exp1ArraysAndLinkedList/WorkedOutEx.png<br>
 
 Output for 2, Strings:
 
