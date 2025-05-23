@@ -23,3 +23,15 @@ Output for 3, StringOperations:
 https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/CheckNullOrEmpty.png
 https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/CountSubstringOccurrences.png
 https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/PalindromeChecker.png
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/RandomStringGenerator.png
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/RemoveWhitespace.png
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/ReverseString.png
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/StringHandlingDemo1.png
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab3StringOperations/strings/StringHandlingDemo2.png
+
+Output for 4, Swings:
+
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab4Swing/ClockUI.png
+https://github.com/Sanjay-06-2004/advancejavaa/blob/main/Lab4Swing/CountryButtonSwing.png
+
+Output for 5, Swings:
